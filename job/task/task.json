@@ -1,0 +1,5 @@
+{
+"input": "data.txt",
+"class": "com.thinking.machines.utils.Process",
+"method": "processIt"
+}
